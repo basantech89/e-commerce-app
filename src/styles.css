@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.items {
+  display: flex;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  object-fit: fill;
+}
